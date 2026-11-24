@@ -3,7 +3,7 @@
 **Application ID:** `com.rollivalry.marblerace`  
 **Effective Date:** November 24, 2026  
 **Live Policy Page:** https://meracing.github.io/Rollivalry-privacy-policy/  
-**Developer Contact:** renecornella@gmail.com
+**Developer Contact:** scoremate.dev@gmail.com
 
 ---
 
@@ -32,4 +32,4 @@ Rollivalry is designed for family-friendly couch and Wi-Fi party play with zero 
 All saved data lives locally on your device; uninstalling the app removes it immediately.
 
 ## 8. Contact
-Questions or requests: **renecornella@gmail.com**
+Questions or requests: **scoremate.dev@gmail.com**
